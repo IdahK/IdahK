@@ -2,7 +2,7 @@
 
 
 **I am Idah, a backend developer 👩🏽‍💻 working remotely since 2020**.
-**You can view [my resume here](https://bold.pro/my/idah-koome) **
+**You can view [my resume here](https://bold.pro/my/idah-koome)**
 
 ⚡ **My SkillSet**
 <table>
