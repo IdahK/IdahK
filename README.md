@@ -32,6 +32,10 @@
                 <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" />
                 <img src="https://img.shields.io/badge/Linux-F7F7F7?style=for-the-badge&logo=linux&logoColor=black" />
                 <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" />
+                <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+                <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+                <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+                <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
             </td>
         </tr>
     </tbody>
@@ -47,4 +51,5 @@ Here are facts about me to get you started:
 - 📫 How to reach me: gakiidah73@gmail.com
 - ⚡ Fun fact (but also weird): Like fingerprints, everyone's tongue print is different 💪🏾
 
-. 
+.
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
