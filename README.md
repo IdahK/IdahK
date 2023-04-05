@@ -1,7 +1,7 @@
 ### Bonjour there 👋
 
 
-**I am Idah, a backend developer 👩🏽‍💻 working remotely since 2020**.
+**I am Idah, a fullstack developer 👩🏽‍💻 working remotely since 2020**.
 **You can view [my resume here](https://bold.pro/my/idah-koome)**
 
 ⚡ **My SkillSet**
@@ -41,8 +41,10 @@ Here are facts about me to get you started:
 
 - 🔭 I’m currently working on a new exciting project.Stay tuned ..
 - 🤩 I'm very passionate about personal and financial wellbeing, and productivity.
-- 🌱 I’m currently learning frontend + backend development using Angular and Spring boot
+- 🌱 I’m currently learning frontend + backend development  + DevOps using Angular and Spring boot and CI/CD
 - 👯 I’m looking to collaborate on any backend projects.I love learning anything new (good things, of course 😅)  under the sun 
 - 💬 Ask me about Java or Python or Angular
 - 📫 How to reach me: gakiidah73@gmail.com
-- ⚡ Fun fact (but also weird): If You Eat too Many Carrots, Your Skin Will/Might Turn orange 🍊 . 
+- ⚡ Fun fact (but also weird): Like fingerprints, everyone's tongue print is different 💪🏾
+
+. 
