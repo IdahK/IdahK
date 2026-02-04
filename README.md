@@ -2,7 +2,6 @@
 
 
 **I am Idah, a fullstack developer 👩🏽‍💻 working remotely since 2020**.
-**You can view [my resume here](https://bold.pro/my/idah-koome)**
 
 🦹‍♀🦸‍♀️🦸‍♀️ **My SkillSet**
 <table>
