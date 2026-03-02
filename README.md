@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/idah-koome/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gakiidah73@gmail.com">
+  <a href="mailto:idahkoome@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Remote%20Work-28a745?style=for-the-badge&logo=googlemeet&logoColor=white" />
@@ -24,7 +24,7 @@
 - 🌱 Deepening my knowledge of **System Design & Architecture** and **Design Patterns**.
 - 🤝 Open to backend collaborations and interesting open-source projects.
 - 💬 Ask me about **Java**, **Spring Boot**, **Python**, **Angular**, or **AI engineering**.
-- 📫 Reach me at: gakiidah73@gmail.com
+- 📫 Reach me at: idahkoome@gmail.com
 - ⚡ **Fun fact**: Honey never spoils — archaeologists have found 3,000-year-old honey in Egyptian tombs that was still edible. Unlike most legacy code 😅 (Also: everyone's tongue print is unique, just like fingerprints 👅)
 
 ---
@@ -108,7 +108,7 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <a href="https://github.com/IdahK/biashara-watch">🔗 View Repo →</a>
+      <a href="https://github.com/IdahK/biashara-watch-public">🔗 View Repo →</a>
     </td>
   </tr>
   <tr>
